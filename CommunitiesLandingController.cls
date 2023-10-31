@@ -9,4 +9,4 @@ public with sharing class CommunitiesLandingController {
 
     public CommunitiesLandingController() {
     }
-}
+
